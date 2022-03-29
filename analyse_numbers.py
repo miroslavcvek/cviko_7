@@ -1,12 +1,10 @@
 def is_whole_number(number):
-    if float(number) == True:
-        message = "Neni cele cislo"
-        print(message)
+    if number % 2
+        return True
 
     else:
+        return False
 
-        mess = "Cislo je cele"
-        print(mess)
 
 
 cislo = is_whole_number(4)
